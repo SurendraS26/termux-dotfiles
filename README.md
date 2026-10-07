@@ -6,13 +6,13 @@ Usage
 -----
 To install the dotfiles
 ```sh
-./install.sh
+> ./install.sh
 ```
 > Warning: Make sure you backup your home directory for safety.
 
 For creating backup of existing dotfiles
 ```sh
-./backup.sh
+> ./backup.sh
 ```
 > Note: This script does not backup your home directory or config files.
 
