@@ -4,4 +4,6 @@ echo "Backup Termux Dotfiles"
 cp -r ~/.termux .
 # Copy vimrc
 cp ~/.vimrc .
+# Copy Config directory files
+cp ~/.config/{glow} .
 echo "Done"
