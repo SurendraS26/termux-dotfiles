@@ -5,5 +5,5 @@ cp -r ~/.termux .
 # Copy vimrc
 cp ~/.vimrc .
 # Copy Config directory files
-cp ~/.config/glow .
+cp -r  ~/.config/glow .
 echo "Done"
