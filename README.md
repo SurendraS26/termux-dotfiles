@@ -18,9 +18,9 @@ For creating backup of existing dotfiles
 
 Backup Contents
 ---------------
-- .termux - Termux app configs.
-- .vimrc - vim editor config.
-- glow - Glow package config.
+- **.termux** - Termux app configs.
+- **.vimrc** - vim editor config.
+- **glow** - Glow package config.
 License
 -------
 ```
